@@ -48,6 +48,6 @@ Your captures never leave your Mac. And at 0.9 MB, PinShot is smaller than most 
 
 **[Download free on the Mac App Store](https://apps.apple.com/app/id6790193690)**
 
-Questions, bugs, or feature requests: **variayinc@gmail.com** — every message gets read, usually within a few business days.
+Questions, bugs, or feature requests: **support@variay.com** — every message gets read, usually within a few business days.
 
 [Privacy policy](privacy)
